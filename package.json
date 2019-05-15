@@ -1,0 +1,16 @@
+{
+  "name": "sms-length-calc",
+  "version": "1.0.0",
+  "description": "SMS length calculator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SMS",
+    "Length",
+    "Calculator"
+  ],
+  "author": "Alan",
+  "license": "ISC"
+}
